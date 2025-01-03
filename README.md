@@ -1,2 +1,2 @@
-this is puthon file 
+This is python file 
 example for git tutorial
